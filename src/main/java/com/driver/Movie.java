@@ -1,2 +1,3 @@
-package com.driver;public class Movie {
+package com.driver;
+public class Movie {
 }

@@ -1,2 +1,3 @@
-package com.driver;public class MovieController {
+package com.driver;
+public class MovieController {
 }
